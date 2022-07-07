@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Dgarza0413/train-departures#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
